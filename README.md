@@ -1,2 +1,2 @@
 # DailyPractice
-Daily Design and Coding projects 
+A repo full of my daily designs and coding practice. 
